@@ -71,4 +71,6 @@ git clone https://github.com/Forward-back/COP.git
 
 感谢 B 站「湖科大」《计算机组成原理》课程及授课老师的公开分享。
 
-如果这份笔记对你有帮助，欢迎 Star 支持。
+如果这份笔记对你有帮助，欢迎 Star或投币支持！
+
+<img src="images/pay_wx.jpg" height="280" alt="微信支付"> <img src="images/pay_zfb.jpg" height="280" alt="支付宝">
