@@ -73,4 +73,4 @@ git clone https://github.com/Forward-back/COP.git
 
 如果这份笔记对你有帮助，欢迎 Star或投币支持！
 
-<img src="images/pay_wx.jpg" height="280" alt="微信支付"> <img src="images/pay_zfb.jpg" height="280" alt="支付宝">
+<img src="images/pay_wx.jpg" height="280" alt="微信支付">
